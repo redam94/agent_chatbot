@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "agent_chatbot",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "agent_chatbot"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "agent_chatbot",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall agent_chatbot in Development mode\n# make sure agent_chatbot package is installed in development mode\n$ pip install -e .\"[dev]\"\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to agent_chatbot\n$ nbdev_prepare",
+    "crumbs": [
+      "agent_chatbot"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "agent_chatbot",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/redam94/agent_chatbot.git\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "agent_chatbot"
+    ]
+  }
+]
