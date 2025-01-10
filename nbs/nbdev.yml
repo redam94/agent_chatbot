@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "agent_chatbot"
+  site-url: "https://redam94.github.io/agent_chatbot"
+  description: "Agentic chat bot test using pydantic-ai"
+  repo-branch: main
+  repo-url: "https://github.com/redam94/agent_chatbot"
