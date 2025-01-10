@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://redam94.github.io',
                 'git_url': 'https://github.com/redam94/agent_chatbot',
                 'lib_path': 'agent_chatbot'},
-  'syms': {'agent_chatbot.app': {}}}
+  'syms': { 'agent_chatbot.agents.orchestration_agent': { 'agent_chatbot.agents.orchestration_agent.OchestrationPlan': ( 'agents/orchestration_agent.html#ochestrationplan',
+                                                                                                                         'agent_chatbot/agents/orchestration_agent.py')},
+            'agent_chatbot.app': {}}}
