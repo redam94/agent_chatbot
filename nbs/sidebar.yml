@@ -1,0 +1,9 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_app.ipynb
+      - section: agents
+        contents:
+          - agents/00_management_agent.ipynb
+          - agents/01_orchestration_agent.ipynb
